@@ -11,10 +11,7 @@ import java.io.IOException;
         value =
                 {
                         "/san-pham/hien-thi",
-                        "/san-pham/add",
-                        "/san-pham/remove",
-                        "/san-pham/update",
-                        "/san-pham/detail",
+
 
                 })
 public class ServletSanPham extends HttpServlet {
